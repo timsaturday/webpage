@@ -41,16 +41,18 @@
 						Собирать словари для коллекции<br />
 						Готовить львятину<br />
 					</article>
+					<article>
 			</div>
 				<div class="col-md-3">
 					<h4>Я в соцсетях</h4>
 					<ul>
-						<li><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%80%D0%BE%D0%B1%D0%B0%D0%BD%D0%B3"></a>Одноклассники</li>
-						<li><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D1%81%D1%8F%D1%87%D1%8C%D1%8F_%D0%BB%D0%B0%D1%82%D1%8B%D0%BD%D1%8C"></a>ICQ</li>
-						<li><a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B2%D0%B5%D1%82_%D0%BD%D0%B0_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8,_%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B8_%D0%B2%D1%81%D0%B5%D0%B3%D0%BE_%D1%82%D0%B0%D0%BA%D0%BE%D0%B3%D0%BE"></a>Tumblr</li>
-						<li><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%BA%D0%BE%D1%88%D0%BA%D0%B8_%D1%81_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%BC">Badoo</li>
-					  	<li><a href="https://vk.com/kingdom_romland"></a>ВКонтакте</li>
+						<li><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%80%D0%BE%D0%B1%D0%B0%D0%BD%D0%B3">Одноклассники</a></li>
+						<li><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D1%81%D1%8F%D1%87%D1%8C%D1%8F_%D0%BB%D0%B0%D1%82%D1%8B%D0%BD%D1%8C">ICQ</a></li>
+						<li><a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B2%D0%B5%D1%82_%D0%BD%D0%B0_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8,_%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B8_%D0%B2%D1%81%D0%B5%D0%B3%D0%BE_%D1%82%D0%B0%D0%BA%D0%BE%D0%B3%D0%BE">Tumblr</a></li>
+						<li><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%BA%D0%BE%D1%88%D0%BA%D0%B8_%D1%81_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%BC">Badoo</a></li>
+					  	<li><a href="https://vk.com/kingdom_romland">ВКонтакте</a></li>
           				</ul>
+					</article>
 				</div>
 			</div>
 		</section>
