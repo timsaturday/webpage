@@ -31,7 +31,7 @@
 						<p>Школа №8</p>
 					</article>
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-3">
 					<article>
 						<h4>Хобби</h4>
 						<p>Прыгать с парашютом "зайцем"<br />
