@@ -13,7 +13,7 @@
 		<header style="background-color:#00ffcc; padding-top:130px;"> 
 			<center><h1>Тимофей Субботин</h1></center>
 			<br /><br />
-        	<img src="image.png" title="c'est moi" alt="" style="height:500px; margin:20px 20px 40px 20px; " >
+        	<img src="3x4.jpg" title="portrait" alt="" style="height:500px; margin:20px 20px 40px 20px;">
 		</header>
 		<section id="portfolio">
 			<div class="container">
@@ -42,7 +42,7 @@
 						Готовить львятину<br />
 					</article>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-5">
 					<h4>Я в соцсетях</h4>
 					<ul>
 						<li><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%80%D0%BE%D0%B1%D0%B0%D0%BD%D0%B3">Одноклассники</li>
